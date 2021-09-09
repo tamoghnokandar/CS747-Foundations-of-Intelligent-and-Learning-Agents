@@ -1,0 +1,4 @@
+Reinforcement Learning: An Introduction - Richard S. Sutton, Andrew Barto [For reference to clear doubts]
+Numpy documentation
+Lecture Slides [For reference and report]
+Stackoverflow [For syntax related queries]
